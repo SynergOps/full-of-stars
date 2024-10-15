@@ -1,2 +1,2 @@
-# full-of-stars
-A simple Comming Soon Static Page
+# Full of stars
+A simple Comming Soon Static Page by SynergOps
